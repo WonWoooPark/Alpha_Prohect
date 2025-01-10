@@ -1,4 +1,4 @@
-# Alpha_Prohect
+# Alpha_Project
 
 ## 🧑‍🤝‍🧑 **팀원**
 - **박원우**
